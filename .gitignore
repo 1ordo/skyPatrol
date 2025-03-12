@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+Pipfile.lock
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs & databases
+*.log
+*.sqlite3
+.DS_Store
+
+# VSCode settings
+.vscode/
